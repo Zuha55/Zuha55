@@ -56,8 +56,12 @@ I’m a continuous learner who enjoys solving challenging problems and collabora
   *Tech:* Next.js, TypeScript, Tailwind CSS, AI/LLM
 
 - **HealthSync – Healthcare Web Application**  
-  Healthcare system aimed at bridging access gaps for rural communities.  
-  *Tech:* PHP, Web Technologies
+  A healthcare management system designed to bridge the healthcare access gap for rural communities, integrating AI-assisted features for improved usability and efficiency.  
+  *Frontend:* HTML, CSS, Bootstrap, JavaScript, Streamlit  
+  *Backend:* PHP, Python  
+  *Database:* MySQL (XAMPP / phpMyAdmin)  
+  *AI Integration:* Google Gemini Pro API  
+  *Server:* Apache (XAMPP – local environment)
 
 - **Traffic Accident Severity Prediction**  
   Machine learning project analyzing large-scale accident data to predict severity levels.  
