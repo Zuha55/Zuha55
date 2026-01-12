@@ -68,7 +68,7 @@ I’m a continuous learner who enjoys solving challenging problems and collabora
   *Tech:* Python, Machine Learning, Jupyter Notebook
 
 - **Handwriting Writer Identification**  
-  Deep learning-based writer identification system using CNNs and Siamese networks to handle limited data scenarios.  
+  Deep learning-based writer identification system using CNNs networks to handle limited data scenarios.  
   *Tech:* Python, Deep Learning, OpenCV
 
 - **Sentiment Analysis of Netflix Play Store Reviews**  
