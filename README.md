@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fathima Zuha Mohamed Shafeer
+# 👋 Hi, I'm Fathima Zuha
 
 🎓 **Computer Science & Data Science Student**  
 💡 Passionate about transforming data into meaningful, real-world solutions
